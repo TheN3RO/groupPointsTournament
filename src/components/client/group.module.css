@@ -1,0 +1,49 @@
+.bg-gold {
+    background-color: rgb(209, 176, 0);
+    box-shadow: rgba(150, 100, 0, 0.4) 5px 5px, rgba(150, 100, 0, 0.3) 10px 10px, rgba(150, 100, 0, 0.2) 15px 15px, rgba(150, 100, 0, 0.1) 20px 20px, rgba(150, 100, 0, 0.05) 25px 25px;
+    z-index: 10;
+    height: 700px;
+    top: -60px;
+}
+
+.ribbon-gold {
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(150, 100, 0, 1) 50%);
+}
+
+.bg-silver {
+    background-color: rgb(192,192,192);
+    box-shadow: rgba(100, 100, 100, 0.4) 5px 5px, rgba(100, 100, 100, 0.3) 10px 10px, rgba(100, 100, 100, 0.2) 15px 15px, rgba(100, 100, 100, 0.1) 20px 20px, rgba(100, 100, 100, 0.05) 25px 25px;
+    z-index: 9;
+    height: 670px;
+    top: -30px;
+}
+
+.ribbon-silver {
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(100, 100, 100, 1) 50%);
+}
+
+.bg-bronze {
+    background-color: rgb(205, 127, 50);
+    box-shadow: rgba(150, 75, 0, 0.4) 5px 5px, rgba(150, 75, 0, 0.3) 10px 10px, rgba(150, 75, 0, 0.2) 15px 15px, rgba(150, 75, 0, 0.1) 20px 20px, rgba(150, 75, 0, 0.05) 25px 25px;
+    z-index: 8;
+    height: 650px;
+    top: -10px;
+}
+
+.ribbon-bronze {
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(150, 75, 0, 1) 50%);
+}
+
+.bg-default {
+    box-shadow: rgba(143, 138, 136, 0.4) 5px 5px, rgba(143, 138, 136, 0.3) 10px 10px, rgba(143, 138, 136, 0.2) 15px 15px, rgba(143, 138, 136, 0.1) 20px 20px, rgba(143, 138, 136, 0.05) 25px 25px;
+    z-index: 7;
+    height: 640px;
+}
+
+.ribbon-default {
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(143, 138, 136, 1) 50%);
+}
