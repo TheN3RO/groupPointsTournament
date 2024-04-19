@@ -12,7 +12,7 @@ const GroupPage = () => {
   }, []);
 
   return (
-    <div className='flex justify-center items-center flex-col bg-zinc-300'>
+    <div className='flex justify-center items-center flex-col min-h-screen bg-zinc-300'>
         <h1 className='text-5xl my-5 font-bold text-center font-poppins'>Wyniki grupowe</h1>
         <section className='flex justify-center items-center'>
           <GroupList groups={groups} />
